@@ -1,1 +1,1 @@
-Functional Mindustry Classic mirror!
+Functional Mindustry Classic web mirror!
