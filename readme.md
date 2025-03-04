@@ -1,2 +1,2 @@
 Functional Mindustry Classic web mirror!  
-mindustry-classic-mirror.vercel.app
+https://mindustry-classic-mirror.vercel.app
